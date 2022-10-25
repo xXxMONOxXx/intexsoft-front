@@ -1,0 +1,19 @@
+{
+  "name": "front",
+  "version": "0.0.0",
+  "description": "front project for intexsoft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xXxMONOxXx/intexsoft-front.git"
+  },
+  "author": "mishas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xXxMONOxXx/intexsoft-front/issues"
+  },
+  "homepage": "https://github.com/xXxMONOxXx/intexsoft-front#readme"
+}
